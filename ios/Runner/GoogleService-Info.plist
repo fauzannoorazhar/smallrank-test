@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>874856538938-iu919ia679hqfhp94u3poaik9jlf12qd.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.874856538938-iu919ia679hqfhp94u3poaik9jlf12qd</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>874856538938-hvmccn1qihv4et003cljljvm41bnsh4t.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCtmaCcMSqBUnBhCxU_uVZhKW5Xw8N6V1I</string>
+	<key>GCM_SENDER_ID</key>
+	<string>874856538938</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.smallrank.app</string>
+	<key>PROJECT_ID</key>
+	<string>smallrank-shops</string>
+	<key>STORAGE_BUCKET</key>
+	<string>smallrank-shops.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:874856538938:ios:d6896f0fe49d3d1c91a603</string>
+</dict>
+</plist>
