@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "874856538938",
+    "project_id": "smallrank-shops",
+    "storage_bucket": "smallrank-shops.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874856538938:android:b05b1accae4c2f4091a603",
+        "android_client_info": {
+          "package_name": "com.smallrank.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874856538938-hvmccn1qihv4et003cljljvm41bnsh4t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smallrank.app",
+            "certificate_hash": "86622b95bd5d5a80a1ed70025d13a351eb92831a"
+          }
+        },
+        {
+          "client_id": "874856538938-uiosc28frbviitrr69nf4jkg6mdr1i43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7lYikbTCVktDWEMVZ_XHTk1MC9O4ydIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874856538938-uiosc28frbviitrr69nf4jkg6mdr1i43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
